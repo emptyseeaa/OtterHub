@@ -1,4 +1,4 @@
-# OtterHub
+# OtterHub 
 
 <p align="center">
   <img width="100" alt="OtterHub icon" src="public/otterhub-icon.svg">
